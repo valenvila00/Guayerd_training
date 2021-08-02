@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8407b3f9-be9d-410e-bc88-71de338d303d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../FabricaDeAutos/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FabricaDeAutos/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FabricaDeAutos/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FabricaDeAutos/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FabricaDeAutos/FabricaDeAutos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FabricaDeAutos/src/fabricadeautos/FabricaDeAutos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FabricaDeAutos/src/testfabricadeautos/TestFabricaDeAutos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfazFuncionalLambda/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfazFuncionalLambda/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfazFuncionalLambda/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfazFuncionalLambda/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfazFuncionalLambda/InterfazFuncionalLambda.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfazFuncionalLambda/src/com/uala/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfazFuncionalLambda/src/com/uala/lambda/IArithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InterfazFuncionalLambda/src/com/uala/testlambda/TestLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramacionFuncional/ProgramacionFuncional.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramacionFuncional/src/ISaludo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProgramacionFuncional/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iPhoneFactory/src/com/guayerd/IPhoneFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iPhoneFactory/src/com/guayerd/apple/before/model/IPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iPhoneFactory/src/com/guayerd/factory/before/model/IPhone11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iPhoneFactory/src/com/guayerd/factory/before/model/IPhoneX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../iPhoneFactory/src/testiphonefactory/TestiPhoneFactory.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1w2ZgACWGkz8Tc8ErBSzLv6PrRC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8407b3f9-be9d-410e-bc88-71de338d303d" name="Default Changelist" comment="" />
+      <created>1627658761606</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627658761606</updated>
+      <workItem from="1627658769287" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

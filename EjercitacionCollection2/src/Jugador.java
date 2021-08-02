@@ -12,6 +12,7 @@ public class Jugador implements Comparable <Jugador>{
         this.titular = titular;
     }
 
+
     public int getNroCamiseta() { return this.nroCamiseta; }
 
     public String getNombre() { return nombre; }
